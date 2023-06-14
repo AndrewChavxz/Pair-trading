@@ -1,2 +1,2 @@
 # Pair-trading
-This is a pair trading project 
+This is c++ code that prints to the terminal. It calculates the mean, min, max, correlation.
